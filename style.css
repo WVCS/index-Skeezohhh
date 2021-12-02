@@ -27,3 +27,28 @@ tr{
   font-size:55px;
   font-family: sans-serif;
 }
+#Nav {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: black;
+  top: 0;
+  margin: 0;
+  left: 0;
+}
+li a {
+  display: block;
+  float: left;
+  padding: 10px 100px;
+  color: white;
+}
+li a:hover {
+  background-color: grey;
+  color: black;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}

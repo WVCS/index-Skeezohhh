@@ -1,31 +1,14 @@
-body {
-  background-color: SpringGreen;
+h1 {
+  text-align: center;
+  color: black;
 }
 
-h2 {
-  color: white;
-  text-align: center;
-  background-color: Green;
-  border: 5px black double;
-  font-size: 75px;
-  font-family: sans-Serif;
+body {
+  background color: antiquewhite;
+  
 }
-li{
-  color:black;
-  font-size:55px;
-  font-family: sans-Serif;
-}
-p{
-  color:black;
-  font-size:55px;
-  font-family: sans-Serif;
-}
-table, tr {
-  border:1px solid black;
-}
-tr{
-  font-size:55px;
-  font-family: sans-serif;
+img {
+  width:35%
 }
 #Nav {
   list-style-type: none;
